@@ -1,4 +1,5 @@
 # DEEP LEARNING FOR MULTIPLE PHOTOGRAPHIC DEFECTS DETECTION
+End of year project by Meryem Akrout, Firas Medini and Ahmed Ben Marzoug from the National Institute of Applied Science and Technology.
 
 Follow this link for a more details about our research (PDF file) : https://bit.ly/2FHnt87
 
