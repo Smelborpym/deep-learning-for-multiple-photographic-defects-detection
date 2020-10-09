@@ -1,0 +1,20 @@
+{
+    "cloud": "local",
+    "paths": {
+        "local": {
+            "downloads": "/home/username/downloads",
+            "datasets": "/home/username/datasets",
+            "training_data": "/home/username/training_data"
+        },
+        "azure": {
+            "downloads": "/home/azureuser/downloads",
+            "datasets": "/home/azureuser/datasets",
+            "training_data": "/home/azureuser/training_data"
+        },
+        "gcp": {
+            "downloads": "/home/username/downloads",
+            "datasets": "/home/username/datasets",
+            "training_data": "/home/username/training_data"
+        }
+    }
+}
