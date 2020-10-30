@@ -60,15 +60,15 @@ Optional. You can run it to monitor the training process of the first Transfer l
 
 Download the Yahoo Flickr subset. The labels we provide were obtained from https://github.com/ningyu1991/DefectDetection
 
-### ./TL1/Launcher.ipynb
+### ./TL2/Launcher.ipynb
 
 Loads and adjusts the last model from the first Transfer Learning phase, for the second Transfer Learning phase, and create all the required folders for training, finally start the training process.
 
-### ./TL1/Training.ipynb
+### ./TL2/Training.ipynb
 
 Contains the actual steps of the training process of the second Transfer Learning.
 This script will run 200 times and train the model for 1 epoch, then save the weights at the end. It can take up to 100GB.
 
-### ./TL1/Monitoring.ipynb
+### ./TL2/Monitoring.ipynb
 
 Optional. You can run it to monitor the training process of the second Transfer learning phase.
